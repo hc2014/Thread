@@ -1,0 +1,5 @@
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\多线程\bin\Debug\多线程.exe
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\多线程\bin\Debug\多线程.pdb
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\多线程\obj\Debug\AutoResetEvent多线程等待实例一.csprojResolveAssemblyReference.cache
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\多线程\obj\Debug\多线程.exe
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\多线程\obj\Debug\多线程.pdb

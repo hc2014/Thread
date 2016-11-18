@@ -1,0 +1,6 @@
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Semaphore实例Demo\bin\Debug\Semaphore实例Demo.exe.config
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Semaphore实例Demo\obj\Debug\Semaphore实例Demo.csprojResolveAssemblyReference.cache
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Semaphore实例Demo\bin\Debug\Semaphore实例Demo.exe
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Semaphore实例Demo\bin\Debug\Semaphore实例Demo.pdb
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Semaphore实例Demo\obj\Debug\Semaphore实例Demo.exe
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Semaphore实例Demo\obj\Debug\Semaphore实例Demo.pdb

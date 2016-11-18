@@ -1,0 +1,6 @@
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Barrier实例一\bin\Debug\Barrier实例一.exe.config
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Barrier实例一\bin\Debug\Barrier实例一.exe
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Barrier实例一\bin\Debug\Barrier实例一.pdb
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Barrier实例一\obj\Debug\Barrier实例一.csprojResolveAssemblyReference.cache
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Barrier实例一\obj\Debug\Barrier实例一.exe
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Barrier实例一\obj\Debug\Barrier实例一.pdb

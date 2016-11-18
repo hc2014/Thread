@@ -1,0 +1,6 @@
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\有返回值的多线程\bin\Debug\有返回值的多线程.exe
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\有返回值的多线程\bin\Debug\有返回值的多线程.pdb
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\有返回值的多线程\obj\Debug\有返回值的多线程.exe
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\有返回值的多线程\obj\Debug\有返回值的多线程.pdb
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\有返回值的多线程\obj\Debug\Task调用有返回值的方法.csprojResolveAssemblyReference.cache
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\有返回值的多线程\bin\Debug\有返回值的多线程.exe.config

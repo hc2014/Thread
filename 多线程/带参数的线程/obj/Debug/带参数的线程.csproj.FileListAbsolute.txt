@@ -1,0 +1,5 @@
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\带参数的线程\bin\Debug\带参数的线程.exe
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\带参数的线程\bin\Debug\带参数的线程.pdb
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\带参数的线程\obj\Debug\带参数的线程.exe
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\带参数的线程\obj\Debug\带参数的线程.pdb
+C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\带参数的线程\obj\Debug\带参数的线程.csprojResolveAssemblyReference.cache
