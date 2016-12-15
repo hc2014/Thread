@@ -4,3 +4,6 @@ C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\线程池Demo\bin\De
 C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\线程池Demo\bin\Debug\线程池Demo.pdb
 C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\线程池Demo\obj\Debug\线程池Demo.exe
 C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\线程池Demo\obj\Debug\线程池Demo.pdb
+C:\Users\hc\Documents\GitHub\Thread\多线程\线程池Demo\bin\Debug\线程池Demo.exe.config
+C:\Users\hc\Documents\GitHub\Thread\多线程\线程池Demo\obj\Debug\线程池Demo.exe
+C:\Users\hc\Documents\GitHub\Thread\多线程\线程池Demo\obj\Debug\线程池Demo.pdb

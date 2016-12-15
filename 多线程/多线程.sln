@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "线程池Demo", "线程池D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "线程池同步操作Demo", "线程池同步操作Demo\线程池同步操作Demo.csproj", "{3CB4D8D8-2CB1-476B-BF9B-30B1B650F4E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "线程池Demo2", "线程池Demo2\线程池Demo2.csproj", "{5D7B6EC4-3E91-46E8-9A80-D7374B22F63E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{3CB4D8D8-2CB1-476B-BF9B-30B1B650F4E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CB4D8D8-2CB1-476B-BF9B-30B1B650F4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CB4D8D8-2CB1-476B-BF9B-30B1B650F4E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7B6EC4-3E91-46E8-9A80-D7374B22F63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7B6EC4-3E91-46E8-9A80-D7374B22F63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7B6EC4-3E91-46E8-9A80-D7374B22F63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7B6EC4-3E91-46E8-9A80-D7374B22F63E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
