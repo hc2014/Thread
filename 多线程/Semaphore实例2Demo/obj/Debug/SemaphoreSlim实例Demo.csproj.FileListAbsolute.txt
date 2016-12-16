@@ -4,3 +4,9 @@ C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Semaphore实例2Demo
 C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Semaphore实例2Demo\obj\Debug\SemaphoreSlim实例Demo.csprojResolveAssemblyReference.cache
 C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Semaphore实例2Demo\obj\Debug\Semaphore实例2Demo.exe
 C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\Semaphore实例2Demo\obj\Debug\Semaphore实例2Demo.pdb
+C:\Users\hc\Documents\GitHub\Thread\多线程\Semaphore实例2Demo\bin\Debug\Semaphore实例2Demo.exe.config
+C:\Users\hc\Documents\GitHub\Thread\多线程\Semaphore实例2Demo\bin\Debug\Semaphore实例2Demo.exe
+C:\Users\hc\Documents\GitHub\Thread\多线程\Semaphore实例2Demo\bin\Debug\Semaphore实例2Demo.pdb
+C:\Users\hc\Documents\GitHub\Thread\多线程\Semaphore实例2Demo\obj\Debug\SemaphoreSlim实例Demo.csprojResolveAssemblyReference.cache
+C:\Users\hc\Documents\GitHub\Thread\多线程\Semaphore实例2Demo\obj\Debug\Semaphore实例2Demo.exe
+C:\Users\hc\Documents\GitHub\Thread\多线程\Semaphore实例2Demo\obj\Debug\Semaphore实例2Demo.pdb

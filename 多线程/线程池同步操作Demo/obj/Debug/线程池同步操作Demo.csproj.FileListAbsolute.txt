@@ -4,3 +4,9 @@ C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\线程池同步操�
 C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\线程池同步操作Demo\obj\Debug\线程池同步操作Demo.csprojResolveAssemblyReference.cache
 C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\线程池同步操作Demo\obj\Debug\线程池同步操作Demo.exe
 C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\线程池同步操作Demo\obj\Debug\线程池同步操作Demo.pdb
+C:\Users\hc\Documents\GitHub\Thread\多线程\线程池同步操作Demo\bin\Debug\线程池同步操作Demo.exe.config
+C:\Users\hc\Documents\GitHub\Thread\多线程\线程池同步操作Demo\bin\Debug\线程池同步操作Demo.exe
+C:\Users\hc\Documents\GitHub\Thread\多线程\线程池同步操作Demo\bin\Debug\线程池同步操作Demo.pdb
+C:\Users\hc\Documents\GitHub\Thread\多线程\线程池同步操作Demo\obj\Debug\线程池同步操作Demo.csprojResolveAssemblyReference.cache
+C:\Users\hc\Documents\GitHub\Thread\多线程\线程池同步操作Demo\obj\Debug\线程池同步操作Demo.exe
+C:\Users\hc\Documents\GitHub\Thread\多线程\线程池同步操作Demo\obj\Debug\线程池同步操作Demo.pdb

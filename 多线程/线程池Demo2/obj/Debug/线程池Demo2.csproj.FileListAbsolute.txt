@@ -3,3 +3,8 @@ C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\线程池Demo2\bin\D
 C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\线程池Demo2\bin\Debug\线程池Demo2.pdb
 C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\线程池Demo2\obj\Debug\线程池Demo2.exe
 C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\线程池Demo2\obj\Debug\线程池Demo2.pdb
+C:\Users\hc\Documents\GitHub\Thread\多线程\线程池Demo2\bin\Debug\线程池Demo2.exe.config
+C:\Users\hc\Documents\GitHub\Thread\多线程\线程池Demo2\bin\Debug\线程池Demo2.exe
+C:\Users\hc\Documents\GitHub\Thread\多线程\线程池Demo2\bin\Debug\线程池Demo2.pdb
+C:\Users\hc\Documents\GitHub\Thread\多线程\线程池Demo2\obj\Debug\线程池Demo2.exe
+C:\Users\hc\Documents\GitHub\Thread\多线程\线程池Demo2\obj\Debug\线程池Demo2.pdb

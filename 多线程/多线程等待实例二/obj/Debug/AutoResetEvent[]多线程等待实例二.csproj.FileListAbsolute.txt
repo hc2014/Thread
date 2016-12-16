@@ -3,3 +3,8 @@ C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\多线程等待实�
 C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\多线程等待实例二\bin\Debug\多线程等待实例二.exe
 C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\多线程等待实例二\bin\Debug\多线程等待实例二.pdb
 C:\Users\hc\Documents\Visual Studio 2012\Projects\多线程\多线程等待实例二\obj\Debug\AutoResetEvent[]多线程等待实例二.csprojResolveAssemblyReference.cache
+C:\Users\hc\Documents\GitHub\Thread\多线程\多线程等待实例二\bin\Debug\多线程等待实例二.exe
+C:\Users\hc\Documents\GitHub\Thread\多线程\多线程等待实例二\bin\Debug\多线程等待实例二.pdb
+C:\Users\hc\Documents\GitHub\Thread\多线程\多线程等待实例二\obj\Debug\AutoResetEvent[]多线程等待实例二.csprojResolveAssemblyReference.cache
+C:\Users\hc\Documents\GitHub\Thread\多线程\多线程等待实例二\obj\Debug\多线程等待实例二.exe
+C:\Users\hc\Documents\GitHub\Thread\多线程\多线程等待实例二\obj\Debug\多线程等待实例二.pdb
