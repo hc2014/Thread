@@ -21,14 +21,23 @@ namespace 基于委托的异步编程
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "正在计算...";
-            //声明委托
-            Func<int, int> result = new Func<int, int>(Async);
+            
+            //异步执行计算，但是主线程依旧需要等待执行结果
+            //Func<int, int> result = new Func<int, int>(Async);
+            //IAsyncResult ires = result.BeginInvoke(10, null, null);
+            //label2.Text = Sync(10).ToString();
+            //label1.Text = result.EndInvoke(ires).ToString();
 
-            IAsyncResult ires = result.BeginInvoke(10, null, null);
+            //BeginInvoke 启用了一个线程去执行异步代码,单是这里写了EndInvoke，虽然计算的代码会异步执行，
+            //单是对于主线程来说还是要去等待这个异步代码执行完毕,然后给lable赋值.
+            //为什么说主线程等待呢?最好的验证方法就是,代码执行后,发现窗体无法拖动.窗体其他控件无法点击
+            //如果想不等待执行结果的话(窗体控件可以继续操作) 那可以这样写
 
+            //异步计算，主线程不等待执行结果
+            Func<int, int> result = new Func<int, int>(Async2);
+            result.BeginInvoke(10, null, null);
             label2.Text = Sync(10).ToString();
-
-            label1.Text = result.EndInvoke(ires).ToString();
+            
         }
 
         private int Sync(int num)
@@ -40,6 +49,17 @@ namespace 基于委托的异步编程
             Thread.Sleep(5000);
             return num * num;
         }
+
+        private int Async2(int num)
+        {
+            Thread.Sleep(5000);
+            if (label1.InvokeRequired)
+            {
+                label1.Invoke(new Action<string>(s => label1.Text = s), (num * num).ToString());
+            }
+            return num * num;
+        }
+
 
         private int CallbackTest(int num1, int num2)
         {
