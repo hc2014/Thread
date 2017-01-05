@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "线程池Demo2", "线程池
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "基于委托的异步编程", "基于委托的异步编程\基于委托的异步编程.csproj", "{88B7B87F-97A9-44BD-BB22-4AF8AE520BD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "并行编程求和Demo", "并行编程求和Demo\并行编程求和Demo.csproj", "{7AEC2FCC-8AB7-40ED-8E19-EF2A36A69C1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,10 @@ Global
 		{88B7B87F-97A9-44BD-BB22-4AF8AE520BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88B7B87F-97A9-44BD-BB22-4AF8AE520BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88B7B87F-97A9-44BD-BB22-4AF8AE520BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AEC2FCC-8AB7-40ED-8E19-EF2A36A69C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEC2FCC-8AB7-40ED-8E19-EF2A36A69C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEC2FCC-8AB7-40ED-8E19-EF2A36A69C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEC2FCC-8AB7-40ED-8E19-EF2A36A69C1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
